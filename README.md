@@ -18,8 +18,10 @@ Fast learner, and always eager to learn more!
 
 Pushing to CI/CD & IaC methodologies, full-cycle development, and open-source contribution.
 
-Currently working at <img src="https://avatars.githubusercontent.com/u/12783832?s=200&v=4" width="20" alt="Aqua Security" >
+Working at <img src="https://avatars.githubusercontent.com/u/12783832?s=200&v=4" width="20" alt="Aqua Security" >
+|
 Ex <img src="https://avatars.githubusercontent.com/u/33972111?s=200&v=4" width="20" alt="Red Hat">
+|
 Contributing to <img src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" width="20" alt="Kubernetes" >
 
 </td>
@@ -34,8 +36,7 @@ Contributing to <img src="https://avatars.githubusercontent.com/u/13629408?s=200
       <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python" >
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" >
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?
-      style=flat&logo=c%2B%2B&logoColor=white" alt="C++" >
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" >
       <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Scripting" >
       <br/>
       <!-- Technologies -->
@@ -91,7 +92,7 @@ Contributing to <img src="https://avatars.githubusercontent.com/u/13629408?s=200
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
 </a>
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=yuvigold.yuvigold)
+<img src="https://visitor-badge.glitch.me/badge?page_id=yuvigold.yuvigold" alt="visitor badge"/>
 
 <!--
 **YuviGold/YuviGold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
